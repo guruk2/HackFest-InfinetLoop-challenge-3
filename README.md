@@ -34,3 +34,5 @@ And make sure your web server is running:
     MySQL 4.1 or later, MySQL 5.x for best performance.
 
 If you are not sure about this, please check with your web hosting provider.
+<h1>Screen Shots</h1>
+
