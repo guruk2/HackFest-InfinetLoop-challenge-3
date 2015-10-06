@@ -35,4 +35,9 @@ And make sure your web server is running:
 
 If you are not sure about this, please check with your web hosting provider.
 <h1>Screen Shots</h1>
-
+Homepage
+![](https://github.com/guruk2/HackFest-InfinetLoop-challenge-3/blob/master/homepage.jpg)
+User page
+![](https://github.com/guruk2/HackFest-InfinetLoop-challenge-3/blob/master/main.jpg)
+Tags
+![](https://github.com/guruk2/HackFest-InfinetLoop-challenge-3/blob/master/tag.jpg)
