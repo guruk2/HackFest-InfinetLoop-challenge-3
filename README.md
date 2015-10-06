@@ -19,7 +19,7 @@ Built-in user account management
     Private messages and public wall posts.
     Log in via Facebook or others (using plugins).
 	
-Setting-up the portel step by step
+<b>Setting-up the portel step by step
 
 Make sure you have:
 
